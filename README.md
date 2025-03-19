@@ -18,5 +18,7 @@ The bunny changes color when hit by bullets.
 The enemy beside the cat can throw the gun down to the ground if the gun hits it (following physics law).
 The player can tour the whole scene by just controlling the camera, as First People Perspective.
 
+Video: https://share.weiyun.com/9RQFFtyM
+
 ![img.png](img.png)
 ![img_1.png](img_1.png)
